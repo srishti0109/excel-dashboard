@@ -1,3 +1,3 @@
 # Excel-dashboard
 Excel dashboard project for data analytics
-! [] (dasboard-preview.png)
+![Dashboard Preview](dasboard-preview.png)
