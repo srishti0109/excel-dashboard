@@ -1,5 +1,5 @@
 # 📊 Sales Dashboard Analysis (Excel Project)
-📌 Project Overview
+# 📌 Project Overview
 This project focuses on analyzing sales performance using an Excel dashboard.
 The dashboard helps track employee performance, compare regions, and monitor target achievement.
 # 📂 Dataset
